@@ -1,6 +1,10 @@
 🎬 Netflix Clone (HTML & CSS)
+
+
 📌 Overview
 This Netflix Clone is a static web page built using HTML & CSS, replicating the original Netflix homepage design. The project focuses on a sleek and responsive UI with smooth layouts, typography, and styling.
+
+
 
 🚀 Features
 ✅ Fully Responsive Design – Works on all screen sizes
